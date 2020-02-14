@@ -6,9 +6,29 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
+    <header class="encabezado">
+      <h1>#NUESTRO SECRETO</h1>
+    </header>
+  
+    <section id="julioCipher">
+      <article>
+        <h2><strong>Desplazamiento (offset):</strong></h2>
+        <input type="number" class="btnNumber" id="offset" min="0" max="50">
+      
+        <h3><strong>Mensaje a Cifrar</strong></h3>
+        <textarea id="message1" class="txt1" type="text" cols="50" rows="10" placeholder="Ingrese el mensaje(texto)a cifrar o descifrar"></textarea>
+        <button id="btnCifrar" class="btnCifrado">CIFRAR</button>
+        <button id="btnDecifrar"  class="btnDecifrado">DESCIFRAR</button>
+      
+        <h3><strong>Resultado</strong></h3>
+        <textarea id="message2" class="txt2" type="text" cols="50" rows="10" placeholder="Haz click en los botones para ver resultado" readonly></textarea>
+        <br>
+        
+        <button id="btnLimpiar" class="btnLimpiar">LIMPIAR</button>
+      </article>
+    <footer>
+      <p class="copyright">©Copyright 2020 by Ruth Lucy Campos Huamantica</p>
+    </footer>
     <script src="index.js" type="module"></script>
   </body>
 </html>

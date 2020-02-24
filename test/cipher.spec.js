@@ -8,7 +8,7 @@ describe('cipher', () => {
     expect(typeof cipher).toBe('object');
   });
 
-  describe('cipher.encode', () => {
+  describe(cipher.encode, () => {
 
     it('debería ser una función', () => {
       expect(typeof cipher.encode).toBe('function');

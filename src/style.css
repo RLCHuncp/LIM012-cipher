@@ -1,91 +1,155 @@
-body {
-    background-image:url(c.jpg);
-    background-size: cover;
-    margin: 0;
-    padding: 5px;
+*{
+  margin:0;
+  padding: 0;
+}
+  .encabezado{
+    text-align: center;
+    color: #FC7753;
+    font-family: 'AR BERKLEY';
+    font-size: 300%;
+    font-style: italic;
+  }
+  body{
+    position: relative;
     width: 100%;
     height: 100%;
-    box-sizing: border-box;
-  
+    background-color: rgb(160, 155, 155);
+    background-size: cover;
+    transition: all .1s ease-in-out;
+    animation: banner 16s infinite linear;
   }
-  .encabezado{
-    font-family: "Lobster Two", cursive;
-    text-align: center;
-    color: rgb(221, 42, 18);
-    font-size:2em;
+ 
+/*CREANDO ANIMACIÓN*/
+@keyframes banner{
+  0%{
+    background-image: url("6.jpg");
   }
-  h2{
-  
-    font-family: sans-serif;
-    color: rgb(17, 16, 7);
-    text-align: center;
+  25%{
+    background-image: url("6.jpg");
   }
+  26%{
+    background-image: url("2.jpg");
+  }
+  50%{
+    background-image: url("2.jpg");
+  }
+  51%{
+    background-image: url("4.jpg");
+  }
+  75%{
+    background-image: url("4.jpg");
+  }
+  76%{
+    background-image: url("5.jpg");
+  }
+  100%{
+    background-image: url("5.jpg");
+  }
+} 
   .btnNumber{
       border-radius: 6px;
     }
   article{
-    
     width: 400px;
     margin: auto;
-    background:brown;
+    background: #D1BE9F;
     padding: 5px 5px;
     box-sizing: border-box;
-    margin-top: 0 px;
-    border-radius: 20px;
-    color:rgb(20, 10, 22);
-    float:center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif  ;
+    margin-top: 50 px;
+    border-radius: 10px;
+    color:#241909;
+    font-family: 'Bradley Hand ITC';    
+    float: center;
   }
   .txt1{
     background-color: white;
     width: 380px;
-    height:80px ;
+    height:150px ;
   }
   .txt2{
     background-color: white;
     width: 380px;
-    height:80px ;
+    height:150px ;
   }
   .btnCifrado{
     text-decoration: none;
-    padding: 10px;
+    padding: 8px;
     font-weight: 600;
     font-size: 20px;
     color: #ffffff;
-    background-color: sienna;
+    background-color: #6A8D73;  
     border-radius: 6px;
-    border: 2px solid sienna;
+    border: 2px solid #6A8D73;
     float: center;
    
   }
   .btnDecifrado{
-        padding: 10px;
+        padding: 8px;
         font-weight: 600;
         font-size: 20px;
         width: 130px;
         color: #ffffff;
-        background-color: sienna;
+        background-color:#6A8D73;
         border-radius: 6px;
-        border: 2px solid sienna;
+        border: 2px solid #6A8D73;
         float: right;
     
   }
   .btnLimpiar{
-    padding: 10px;
+    padding: 8px;
     font-weight: 600;
     font-size: 20px;
     color: white;
-    background-color: sienna;
+    background-color: #6A8D73;
     border-radius: 6px;
-    border: 2px solid sienna;
+    border: 2px solid #6A8D73;
     display:block;
     margin-left: auto;
     margin-right: auto;
     
   }
-  p.copyright{
+.social-bar{
+  position:fixed;
+  right:0;
+  top:35%;
+  font-size: 1.5rem;
+  display:  flex;
+  flex-direction: column;
+  align-items: flex-end;
+  z-index:100;
+
+}
+.icon {
+  color:white;
+  text-decoration: none;
+  padding: .7rem;
+  display: flex;
+  transition: all .5s;
+}
+.icon-facebook2 {
+  background: #2E406E;
+
+}
+.icon-twitter {
+  background: #339DC5;
+}
+.icon-youtube {
+  background: #E83028;
+}
+.icon-instagram {
+  background: #3F60A5;
+ 
+}
+.icon:first-child {
+  border-radius: 1rem 0 0 0;
+}
+.icon:last-child {
+  border-radius: 0 0 0 1rem;
+}
+
+.copyright{
     color: #ffffff;
     font-size: 15px;
-    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
   }
   

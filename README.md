@@ -20,7 +20,7 @@ Otras cosas que puedes hacer con #NuestroSecreto es:
 ![Pantalla Principal](Captura.PNG)
 
 ### CIFRADO Y DESCIFRADO
-![Cifrado y descifrado](Captura.PNG)
+![Cifrado y descifrado](cifrado.png)
 ### UX
 
 * [ ] [Diseñar la aplicación pensando y entendiendo al usuario](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/intro-ux/01-el-proceso-de-diseno/00-el-proceso-de-diseno)

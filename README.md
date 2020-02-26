@@ -40,5 +40,40 @@ Cuando quieres mantener una relación a escondidas, es decir que no quieres que 
 
 ### 3.5 PROTOTIPO FINAL
 ![Prototipo Final](prototipo2.PNG)
-Herramientas:
-* GitHub y GitHub Pages.
+
+## 4. OBJETIVOS DE APRENDIZAJE
+1.Sé lo que es y para qué sirve.
+2.Lo puedo explicar con mis propias palabras.
+3.Lo puedo hacer sola desde cero en un proyecto diferente.
+
+### UX (Diseño de experiencia de usuario)
+-Diseño centrado en el usuario -->3		
+-Crear prototipos para obtener feedback e iterar --> 3			
+-Aplicar los principios de diseño visual-->2
+
+### HTML y CSS
+-Uso correcto de HTML semántico -->	2		
+-Uso de selectores de CSS --> 2		
+-Construir tu aplicación respetando el diseño realizado (maquetación). --> 3
+
+### DOM (Document Object Model)
+-Utilizar los métodos de selección del DOM (getElementById, querySelector, etc) --> 2			
+-Manejar eventos del DOM (addEventListener) --> 2 3	
+-Manipulación dinámica del DOM (createElement, innerHTML) --> 1
+
+### JAVASCRIPT
+-Manipular strings (cadenas de texto) y concatenar. -->3			
+-Utilizar condicionales if-else o switch. -->1			
+-Utilizar bucles for o do-while. --> 1		
+-Utilizar funciones de tipo flecha (arrow-function). --> 1 2			
+-Datos atómicos y estructurados (strings, numbers, array, object))		
+-Utilizar ES Modules (import | export). --> 1
+
+### GIT Y GITHUB
+-Comandos de git (add (Si-3) | commit (Si-3) | pull | status (Si-3) | push(Si-3)).	----
+-Manejo de repositorios de GitHub (clone(Si-3) | fork(Si-3) | gh-pages). --> 1
+
+### BUENAS PRÁCTICAS DE DESARROLLO
+-Organizar y dividir el código en módulos (Modularización). ---			
+-Uso de identificadores descriptivos (Nomenclatura | Semántica). -->2 3			
+-Uso de linter para seguir buenas prácticas (ESLINT). -->1

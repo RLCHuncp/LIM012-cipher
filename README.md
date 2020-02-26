@@ -43,7 +43,9 @@ Cuando quieres mantener una relación a escondidas, es decir que no quieres que 
 
 ## 4. OBJETIVOS DE APRENDIZAJE
 1.Sé lo que es y para qué sirve.
+
 2.Lo puedo explicar con mis propias palabras.
+
 3.Lo puedo hacer sola desde cero en un proyecto diferente.
 
 ### UX (Diseño de experiencia de usuario)

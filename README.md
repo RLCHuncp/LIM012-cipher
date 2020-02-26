@@ -22,5 +22,23 @@ Otras cosas que puedes hacer con #NuestroSecreto es:
 ### CIFRADO Y DESCIFRADO
 ![Cifrado y descifrado](pan2.png)
 
+## 3. INVESTIGACIÓN UX
+### 3.1 USUARIO:
+#NuestroSecreto está dirigido para público en general, primordialmente para parejas que desean cifrar o descifrar un mensaje y de esta manera tengan mayor seguridad y confidencialidad en comunicarse. También esta aplicación web puedes utilizar para crear una contraseña segura, tener un diario personal digitalizado cosa que cuando alguien quiera "husmear" no logre descubrir tus secretos :).
+
+### 3.2 SOLUCIÓN:
+Cuando quieres mantener una relación a escondidas, es decir que no quieres que terceras personas se enteren y no sabes cómo comunicarte en secreto?... Pues ¡¡aquí!! la solución --> #NuestroSecreto te ayuda a tener mensajes súper confidenciales y seguros.
+
+### 3.3 PRIMER PROTOTIPO
+![Primer prototipo](prototipo1.jpg)
+
+### 3.4 Feedback
+- Cambiar el color del diseño en los botones el fondo del cuadro de texto.
+- Darle más vida a la página web.
+- Empezar la codificación planificando, con obejtivos a corto plazo que sean fácil de poder cumplirlas.
+- Utilizar Trello y cumplirlas.
+
+### 3.5 PROTOTIPO FINAL
+![Prototipo Final](prototipo2.PNG)
 Herramientas:
 * GitHub y GitHub Pages.

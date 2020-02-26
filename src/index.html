@@ -5,38 +5,45 @@
     <title>Caesar Cipher</title>
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="fonts.css">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
   </head>
   <body >
-   <header class="encabezado">
-      <h1>#NuestroSecreto</h1>
-  </header>
-        <article class="banner">
+    <section class="contenedor">
+      <header class="encabezado">
+          <h1>#NuestroSecreto</h1>
+      </header>
+      <nav id="menu-h">
+        <ul>
+          <li><a href="principal.html">Inicio</a></li>
+        </ul>
+     </nav>
+      <article class="banner">
         <h3><strong>Desplazamiento (offset):</strong></h3>
         <input type="number" class="btnNumber" id="offset" min="0" max="50">
-       <a href="principal.html">MENU PRINCIPAL</a>
         <h3><strong>Mensaje a Cifrar</strong></h3>       
         <textarea id="message1" class="txt1" type="text" cols="50" rows="10" placeholder="Ingrese el mensaje(texto)a cifrar o descifrar"></textarea>
         <button id="btnCifrar" class="btnCifrado">Cifrar</button>
         <button id="btnDecifrar"  class="btnDecifrado">Descifrar</button>
-        
+            
         <h3><strong>Resultado</strong></h3>
         <textarea id="message2" class="txt2" type="text" cols="50" rows="10" placeholder="Haz click en los botones para ver resultado" readonly></textarea>
         <button onclick = "location.reload ();" class = "btnLimpiar" > Limpiar </button>
       </article>
-       <!--REDES SOCIALES-->
-    <section class="social-bar">
-      <a href="https://www.facebook.com/" class="icon icon-facebook2" target="_blank"></a>
-      <a href="https://www.twitter.com/" class="icon icon-twitter"></a>
-      <a href="https://www.youtube.com/" class="icon icon-youtube"></a>
-      <a href="https://www.instagram.com/" class="icon icon-instagram"></a>
+      <!--REDES SOCIALES-->
+      <section class="social-bar">
+        <a href="https://www.facebook.com/" class="icon icon-facebook2" target="_blank"></a>
+        <a href="https://www.twitter.com/" class="icon icon-twitter" target="_blank"></a>
+        <a href="https://www.youtube.com/" class="icon icon-youtube" target="_blank"></a>
+        <a href="https://www.instagram.com/" class="icon icon-instagram" target="_blank"></a>
+      </section>
+        <!--REDES SOCIALES-->
+        
+      <script src="index.js" type="module"></script>
+      
+      <footer>
+        <p class="copyright">©Copyright 2020 by Ruth Lucy Campos Huamantica</p>
+      </footer> 
     </section>
-    <!--REDES SOCIALES-->
-     
-    <script src="index.js" type="module"></script>
-   
-  <footer>
-    <p class="copyright">©Copyright 2020 by Ruth Lucy Campos Huamantica</p>
-  </footer> 
   </body>
  
 </html>

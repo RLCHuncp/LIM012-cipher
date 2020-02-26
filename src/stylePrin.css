@@ -41,7 +41,7 @@ video{
     position: absolute;
     border-radius: 6px;
     font-family: cursive;
-    z-index: 100;
+    z-index: 1;
 }
 .boton a{
     text-decoration: none;
@@ -62,7 +62,7 @@ h1{
 }
 h1::after{
     display: block;
-    width:30%;
+    width:50%;
     height: 8px;
     content: "";
     margin: auto;
@@ -73,13 +73,12 @@ h1::after{
     h1{
         font-size: 50px;
     }
+ 
 }
 @media screen and (max-width: 500px){
     h1{
         font-size: 30px;
         margin-bottom: 0;
     }
-    h1::after{
-        display: none;
-    }
+  
 }

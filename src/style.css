@@ -2,6 +2,11 @@
   margin:0;
   padding: 0;
 }
+.contenedor {
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
   .encabezado{
     text-align: center;
     color: #FC7753;
@@ -60,16 +65,21 @@
     color:#241909;
     font-family: 'Bradley Hand ITC';    
     float: center;
+    box-sizing: border-box;
   }
   .txt1{
     background-color: white;
     width: 380px;
-    height:150px ;
+    height:120px ;
+    font-family: 'Bradley Hand ITC';    
+    float: center;
   }
   .txt2{
     background-color: white;
     width: 380px;
-    height:150px ;
+    height:120px ;
+    font-family: 'Bradley Hand ITC';    
+    float: center;
   }
   .btnCifrado{
     text-decoration: none;
@@ -80,6 +90,8 @@
     background-color: #6A8D73;  
     border-radius: 6px;
     border: 2px solid #6A8D73;
+    float: center;
+    font-family: 'Bradley Hand ITC';    
     float: center;
    
   }
@@ -93,7 +105,8 @@
         border-radius: 6px;
         border: 2px solid #6A8D73;
         float: right;
-    
+        font-family: 'Bradley Hand ITC';    
+        float: center;    
   }
   .btnLimpiar{
     padding: 8px;
@@ -106,19 +119,46 @@
     display:block;
     margin-left: auto;
     margin-right: auto;
-    
+    font-family: 'Bradley Hand ITC';    
+    float: center;
   }
-.social-bar{
-  position:fixed;
-  right:0;
-  top:35%;
-  font-size: 1.5rem;
-  display:  flex;
-  flex-direction: column;
-  align-items: flex-end;
-  z-index:100;
-
-}
+  /*MENU HORIZONTAL*/
+  #menu-h ul{
+    list-style: none;
+    display: flex;  
+    justify-content: flex-start;
+   
+  }
+  #menu-h a{
+    color: #6A8D73;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    background: rgb(36, 33, 29);
+    font-family: 'AR BERKLEY';
+    font-size: 150%;
+    border-radius: 6px;
+  }
+  #menu-h a:hover {
+    background: #FC7753;
+  }
+  #menu-h ul ul {
+    display:none;
+    position: absolute;
+    }
+  #menu-h ul li:hover ul {
+    display: block;
+  }
+  .social-bar{
+    position:fixed;
+    right:0;
+    top:35%;
+    font-size: 1.5rem;
+    display:  flex;
+    flex-direction: column;
+    align-items: flex-end;
+    z-index:100;
+  }
 .icon {
   color:white;
   text-decoration: none;
@@ -146,10 +186,11 @@
 .icon:last-child {
   border-radius: 0 0 0 1rem;
 }
-
+.social-bar a:hover{
+  padding: 10px 40px;
+}
 .copyright{
     color: #ffffff;
     font-size: 15px;
     text-align: left;
   }
-  

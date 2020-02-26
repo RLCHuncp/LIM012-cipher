@@ -17,7 +17,7 @@ Otras cosas que puedes hacer con #NuestroSecreto es:
 
 ## 2. IMAGEN FINAL DEL PROYECTO
 ### PANTALLA PRINCIPAL
-![Pantalla Principal](Captura.PNG)
+![Pantalla Principal](pan1.png)
 
 ### CIFRADO Y DESCIFRADO
 ![Cifrado y descifrado](cifrado.png)

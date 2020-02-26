@@ -1,6 +1,6 @@
-#                                CAESAR CIPHER-#NUESTROSECRETO
+# CAESAR CIPHER-#NUESTROSECRETO
 
-## 2. RESUMEN DEL PROYECTO
+## 1. RESUMEN DEL PROYECTO
 
 El cifrado César #NuestroSecreto es una aplicación web que ayuda guardar secretos
 a muchas parejas que no quieren que terceras personas se enteren de su hermosa
@@ -15,15 +15,9 @@ Otras cosas que puedes hacer con #NuestroSecreto es:
 * Encriptar/cifrar una tarjeta de crédito.
 * Tener tu diario digital.
 
-## 3. Objetivos de aprendizaje
-
-En este proyecto aprenderás a construir una aplicación web (_WebApp_) que
-interactuará con el usuario final a través del navegador utilizando HTML, CSS y
-JavaScript como herramientas.
-
-Reflexiona y luego marca los objetivos que has llegado a **entender** y
-**aplicar** en tu proyecto.
-
+## 2. IMAGEN FINAL DEL PROYECTO
+![Pantalla Principal](pprincipal.mp4)
+![Pantalla aa](Captura.PNG)
 ### UX
 
 * [ ] [Diseñar la aplicación pensando y entendiendo al usuario](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/intro-ux/01-el-proceso-de-diseno/00-el-proceso-de-diseno)

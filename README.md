@@ -49,14 +49,16 @@ Cuando quieres mantener una relación a escondidas, es decir que no quieres que 
 3.Lo puedo hacer sola desde cero en un proyecto diferente.
 
 ### UX (Diseño de experiencia de usuario)
--Diseño centrado en el usuario -->3		
--Crear prototipos para obtener feedback e iterar --> 3			
--Aplicar los principios de diseño visual-->2
+-Diseño centrado en el usuario -->3.
+
+-Crear prototipos para obtener feedback e iterar --> 3.
+
+-Aplicar los principios de diseño visual-->2.
 
 ### HTML y CSS
--Uso correcto de HTML semántico -->	2		
--Uso de selectores de CSS --> 2		
--Construir tu aplicación respetando el diseño realizado (maquetación). --> 3
+-Uso correcto de HTML semántico -->	2.	
+-Uso de selectores de CSS --> 2.
+-Construir tu aplicación respetando el diseño realizado (maquetación). --> 3.
 
 ### DOM (Document Object Model)
 -Utilizar los métodos de selección del DOM (getElementById, querySelector, etc) --> 2			

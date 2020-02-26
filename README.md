@@ -16,8 +16,8 @@ Otras cosas que puedes hacer con #NuestroSecreto es:
 * Tener tu diario digital.
 
 ## 2. IMAGEN FINAL DEL PROYECTO
-![Pantalla Principal](pprincipal.mp4)
-![Pantalla aa](Captura.PNG)
+### PANTALLA PRINCIPAL
+![Pantalla Principal](Captura.PNG)
 ### UX
 
 * [ ] [Diseñar la aplicación pensando y entendiendo al usuario](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/intro-ux/01-el-proceso-de-diseno/00-el-proceso-de-diseno)

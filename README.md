@@ -20,7 +20,7 @@ Otras cosas que puedes hacer con #NuestroSecreto es:
 ![Pantalla Principal](pan1.png)
 
 ### CIFRADO Y DESCIFRADO
-![Cifrado y descifrado](cifrado.png)
+![Cifrado y descifrado](pan2.png)
 
 Herramientas:
 * GitHub y GitHub Pages.

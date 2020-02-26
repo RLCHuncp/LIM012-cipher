@@ -18,6 +18,9 @@ Otras cosas que puedes hacer con #NuestroSecreto es:
 ## 2. IMAGEN FINAL DEL PROYECTO
 ### PANTALLA PRINCIPAL
 ![Pantalla Principal](Captura.PNG)
+
+### CIFRADO Y DESCIFRADO
+![Cifrado y descifrado](Captura.PNG)
 ### UX
 
 * [ ] [Diseñar la aplicación pensando y entendiendo al usuario](https://lms.laboratoria.la/cohorts/lim-2020-01-bc-core-lim012/courses/intro-ux/01-el-proceso-de-diseno/00-el-proceso-de-diseno)

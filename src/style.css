@@ -102,7 +102,7 @@ border-radius: 1rem 0 0 0;
 border-radius: 0 0 0 1rem;
 }
 .social-bar a:hover{
-padding: 10px 40px;
+padding: 10px 40px; 
 }
 .content-h h1 {
   text-align: center;

@@ -6,10 +6,10 @@ const cipher = {
       let letterC=string[i];
 
       if (letterC.match(/[a-z]/i)) {
-        if (string.charCodeAt(i) >= 65 && string.charCodeAt(i) <= 90) {
+        if (string.charCodeAt(i) >= 65 && string.charCodeAt(i) <= 90) { //Mayusculas
             let textAsc = (string.charCodeAt(i) - 65 + parseInt(offset)) % 26 + 65;
             resultadoC += String.fromCharCode(textAsc);
-        } else if (string.charCodeAt(i) >= 97 && string.charCodeAt(i) <= 122) {
+        } else if (string.charCodeAt(i) >= 97 && string.charCodeAt(i) <= 122) {//Minúsculas
             let textAsc = (string.charCodeAt(i) - 97 + parseInt(offset)) % 26 + 97;
             resultadoC += String.fromCharCode(textAsc);
         }
@@ -24,7 +24,6 @@ const cipher = {
     let resultadoD = "";
     for (let i = 0; i < string.length; i++) {
       let letterD = string[i];
-      //identificacion de espacios vacios
       if (letterD.match(/[a-z]/i)) {
 
           if (string.charCodeAt(i) >= 65 && string.charCodeAt(i) <= 90) {

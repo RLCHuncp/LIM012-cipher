@@ -43,26 +43,43 @@ Cuando quieres mantener una relación a escondidas, es decir que no quieres que 
 
 ## 4. OBJETIVOS DE APRENDIZAJE
 ## UX
-[SI] Diseñar la aplicación pensando y entendiendo al usuario
-[SI] Crear prototipos para obtener feedback e iterar
-[SI] Aplicar los principios de diseño visual
+[SI] Diseñar la aplicación pensando y entendiendo al usuario.
+
+[SI] Crear prototipos para obtener feedback e iterar.
+
+[SI] Aplicar los principios de diseño visual.
+
 ## HTML y CSS
-[SI] Uso correcto de HTML semántico
-[SI] Uso de selectores de CSS
+[SI] Uso correcto de HTML semántico.
+
+[SI] Uso de selectores de CSS.
+
 [SI] Construir tu aplicación respetando el diseño realizado (maquetación).
+
 ## DOM
-[SI] Uso de selectores de nodos del DOM
-[SI] Manejo de eventos del DOM
-[SI] Manipulación dinámica del DOM
+[SI] Uso de selectores de nodos del DOM.
+
+[SI] Manejo de eventos del DOM.
+
+[SI] Manipulación dinámica del DOM.
+
 ## Javascript
-[SI] Manipulación de strings
-[SI] Uso de condicionales
-[SI] Uso de bucles
-[SI] Uso de funciones
-[SI] Datos atómicos y estructurados
+[SI] Manipulación de strings.
+
+[SI] Uso de condicionales.
+
+[SI] Uso de bucles.
+
+[SI] Uso de funciones.
+
+[SI] Datos atómicos y estructurados.
+
 [SI] Utilizar ES Modules (import | export).
+
 ## Testing
-[SI] Testeo de tus funciones
+[SI] Testeo de tus funciones.
+
 ## Git y GitHub
 [SI] Comandos de git (add | commit | pull | status | push).
+
 [SI] Manejo de repositorios de GitHub (clone | fork | gh-pages).

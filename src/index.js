@@ -4,7 +4,7 @@ const btnCifrar = document.getElementById("btnCifrar");
 const btnDecifrar = document.getElementById("btnDecifrar");
 
 //Evento click CIFRAR
-btnCifrar.addEventListener('click', () => {
+btnCifrar.addEventListener('click', () => { //elemento que escucha.addEventListener('evento',funcion a ejecutar);
 let posicion = document.getElementById('offset').value;
 let mensajeCifrar= document.getElementById('msg-input').value;
 document.getElementById('msg-output').innerHTML=cipher.encode(posicion,mensajeCifrar);

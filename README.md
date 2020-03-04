@@ -43,43 +43,43 @@ Cuando quieres mantener una relación a escondidas, es decir que no quieres que 
 
 ## 4. OBJETIVOS DE APRENDIZAJE
 ## UX
-[SI] Diseñar la aplicación pensando y entendiendo al usuario.
+[/] Diseñar la aplicación pensando y entendiendo al usuario.
 
-[SI] Crear prototipos para obtener feedback e iterar.
+[/] Crear prototipos para obtener feedback e iterar.
 
-[SI] Aplicar los principios de diseño visual.
+[] Aplicar los principios de diseño visual.
 
 ## HTML y CSS
-[SI] Uso correcto de HTML semántico.
+[/] Uso correcto de HTML semántico.
 
-[SI] Uso de selectores de CSS.
+[/] Uso de selectores de CSS.
 
-[SI] Construir tu aplicación respetando el diseño realizado (maquetación).
+[/] Construir tu aplicación respetando el diseño realizado (maquetación).
 
 ## DOM
-[SI] Uso de selectores de nodos del DOM.
+[/] Uso de selectores de nodos del DOM.
 
-[SI] Manejo de eventos del DOM.
+[/] Manejo de eventos del DOM.
 
-[SI] Manipulación dinámica del DOM.
+[/] Manipulación dinámica del DOM.
 
 ## Javascript
-[SI] Manipulación de strings.
+[/] Manipulación de strings.
 
-[SI] Uso de condicionales.
+[/] Uso de condicionales.
 
-[SI] Uso de bucles.
+[/] Uso de bucles.
 
-[SI] Uso de funciones.
+[/] Uso de funciones.
 
-[SI] Datos atómicos y estructurados.
+[] Datos atómicos y estructurados.
 
-[SI] Utilizar ES Modules (import | export).
+[] Utilizar ES Modules (import | export).
 
 ## Testing
-[SI] Testeo de tus funciones.
+[] Testeo de tus funciones.
 
 ## Git y GitHub
-[SI] Comandos de git (add | commit | pull | status | push).
+[/] Comandos de git (add | commit | pull | status | push).
 
-[SI] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+[/] Manejo de repositorios de GitHub (clone | fork | gh-pages).

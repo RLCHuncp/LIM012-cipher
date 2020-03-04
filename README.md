@@ -50,21 +50,21 @@ Cuando quieres mantener una relación a escondidas, es decir que no quieres que 
 [ ] Aplicar los principios de diseño visual.
 
 ## HTML y CSS
-[/] Uso correcto de HTML semántico.
+[--] Uso correcto de HTML semántico.
 
 [/] Uso de selectores de CSS.
 
 [/] Construir tu aplicación respetando el diseño realizado (maquetación).
 
 ## DOM
-[/] Uso de selectores de nodos del DOM.
+[--] Uso de selectores de nodos del DOM.
 
 [/] Manejo de eventos del DOM.
 
-[/] Manipulación dinámica del DOM.
+[--] Manipulación dinámica del DOM.
 
 ## Javascript
-[/] Manipulación de strings.
+[--] Manipulación de strings.
 
 [/] Uso de condicionales.
 

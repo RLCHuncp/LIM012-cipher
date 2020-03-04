@@ -47,7 +47,7 @@ Cuando quieres mantener una relación a escondidas, es decir que no quieres que 
 
 [/] Crear prototipos para obtener feedback e iterar.
 
-[] Aplicar los principios de diseño visual.
+[ ] Aplicar los principios de diseño visual.
 
 ## HTML y CSS
 [/] Uso correcto de HTML semántico.
@@ -72,12 +72,12 @@ Cuando quieres mantener una relación a escondidas, es decir que no quieres que 
 
 [/] Uso de funciones.
 
-[] Datos atómicos y estructurados.
+[ ] Datos atómicos y estructurados.
 
-[] Utilizar ES Modules (import | export).
+[ ] Utilizar ES Modules (import | export).
 
 ## Testing
-[] Testeo de tus funciones.
+[ ] Testeo de tus funciones.
 
 ## Git y GitHub
 [/] Comandos de git (add | commit | pull | status | push).

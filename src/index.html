@@ -5,6 +5,9 @@
     <title>Caesar Cipher</title>
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="fonts.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
   </head>
   <body >
@@ -13,48 +16,40 @@
       <header class="content-h">
           <h1>#NuestroSecreto</h1>
       </header>
-      <!--BARRA DE NAVEGACIÓN A MENÚ INICIO-->
-      <nav class="menu">
-        <ul>
-          <li><a href="principal.html">Inicio</a></li>
-        </ul>
-      </nav>
-      <section id="content-g" class="content-g">
       <!--TEXTO A CODIFICAR-->
       <div id="content-encode" class="content-encode">
         <div class="content-offset">
           <label class="label">N° de desplazamiento:</label>
           <input type="number" class="btnNumber" id="offset" min="0" max="50">
-        </div><br>
-        <h3><strong>Mensaje a Cifrar</strong></h3>    
+        </div>
+        <h3><strong>Mensaje a Cifrar</strong></h3>
         <textarea id="msg-input" class="msg" type="text" cols="50" rows="10" placeholder="Ingrese el mensaje(texto)a cifrar o descifrar"></textarea>
-        <button id="btnCifrar" class="btnCifrar">Cifrar</button>
-        <button id="btnDecifrar"  class="btnDecifrar">Descifrar</button>
+        <div class="encode__btn">
+          <button id="btnCifrar" class="btnCifrar">Cifrar</button>
+          <button id="btnDecifrar"  class="btnDecifrar">Descifrar</button>
+        </div>
         <div id="content-result" class="content-result">
-        <h3><strong>Resultado</strong></h3>
-        <textarea id="msg-output" class="msg" type="text" cols="50" rows="10" readonly></textarea>
+          <h3><strong>Resultado</strong></h3>
+          <textarea id="msg-output" class="msg" type="text" cols="50" rows="10" readonly></textarea>
         </div>
         <button onclick = "location.reload ();" class = "btnLimpiar" > Limpiar </button>
       </div>
 
-      <!--REDES SOCIALES-->
-      <section class="social-bar">
-        <a href="https://www.facebook.com/" class="icon icon-facebook2" target="_blank"></a>
-        <a href="https://www.twitter.com/" class="icon icon-twitter" target="_blank"></a>
-        <a href="https://www.youtube.com/" class="icon icon-youtube" target="_blank"></a>
-        <a href="https://www.instagram.com/" class="icon icon-instagram" target="_blank"></a>
+        <!--REDES SOCIALES-->
+        <section class="social-bar">
+          <a href="https://www.facebook.com/" class="icon icon-facebook2" target="_blank"></a>
+          <a href="https://www.twitter.com/" class="icon icon-twitter" target="_blank"></a>
+          <a href="https://www.youtube.com/" class="icon icon-youtube" target="_blank"></a>
+          <a href="https://www.instagram.com/" class="icon icon-instagram" target="_blank"></a>
+        </section>
+        <!--REDES SOCIALES-->
       </section>
-      <!--REDES SOCIALES-->
+
     </section>
-    
-  </section>
-        
+  <footer>
+    <p class="copyright">©Copyright 2020 by Ruth Lucy Campos Huamantica</p>
+  </footer>
       <script src="index.js" type="module"></script>
-      <br>
-      <footer>
-        <p class="copyright">©Copyright 2020 by Ruth Lucy Campos Huamantica</p>
-      </footer> 
-    
   </body>
- 
+
 </html>

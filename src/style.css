@@ -174,11 +174,21 @@ body{
 
 @media screen and (min-width: 320px) and (max-width: 480px){
   .content-h h1{
-    font-size: 350%;
+    font-size:290%;
   }
   .content-encode{
     padding: 10px;
-    margin: 0px 20px;
+    width: 70%;
+  }
+  .content-offset label{
+    font-size: 19px;
+  }
+  textarea{
+    width: 100%;
+  }
+  textarea::placeholder{
+    font-size: 16px;
+    letter-spacing: 3px;
   }
   .copyright{
     color: #fff;

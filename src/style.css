@@ -164,8 +164,7 @@ body{
   padding: 10px 40px;
   }
     .copyright{
-      /* color: #fff; */
-      color: #000;
+      color: #fff;
       font-size: 18px;
       text-align: center;
       letter-spacing: 2px;
@@ -182,8 +181,7 @@ body{
     margin: 0px 20px;
   }
   .copyright{
-    /* color: #fff; */
-    color: #000;
+    color: #fff;
     font-size: 25px;
   }
 }

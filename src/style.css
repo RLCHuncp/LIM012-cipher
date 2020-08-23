@@ -165,10 +165,10 @@ body{
   }
     .copyright{
       color: #fff;
-      font-size: 18px;
+      font-size: 23px;
       text-align: center;
       letter-spacing: 2px;
-      margin-top: 20px;
+      margin-top: 10px;
       font-family: 'Amatic SC', cursive;
     }
 
@@ -179,6 +179,13 @@ body{
   .content-encode{
     padding: 10px;
     width: 70%;
+  }
+  .content-offset{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
   }
   .content-offset label{
     font-size: 19px;
